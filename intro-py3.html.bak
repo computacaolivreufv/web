@@ -68,11 +68,12 @@
           <div class="service-work overflow-hidden card mx-5 mx-sm-0 mb-5"> <img
               class="card-img-top" src="./assets/img/cap/cap7.jpg" alt="Capítulo 7">
           </div>
-        </a> <a href="./cap/cap8.html" class="col-sm-6 col-lg-3 text-decoration-none project marketing graphic">
+        </a> <a href="./cap/cap7.html" class="col-sm-6 col-lg-3 text-decoration-none project marketing graphic">
           <div class="service-work overflow-hidden card mx-5 mx-sm-0 mb-5"> <img
               class="card-img-top" src="./assets/img/cap/cap8.jpg" alt="Capítulo 8">
-          </div>
-        </a> </div>
+        </div> </a>
+      
+      </div>
       <div class="row">
         <div class="btn-toolbar justify-content-center pb-4" role="toolbar" aria-label="Toolbar with button groups">
         </div>
