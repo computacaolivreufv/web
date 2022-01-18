@@ -22,7 +22,12 @@
     TemplateMo 561 Purple Buzzhttps://templatemo.com/tm-561-purple-buzz-->
   </head>
   <body> <!-- Header -->
-    <script>  x = nav1(); document.write(x.toString()); </script>
+    <script>  x = nav1(); document.write(x.toString()); 
+    					function emBreve()
+{
+alert("EM BREVE!");
+}
+    </script>
     <!-- Close Header -->
     <!-- Start Banner Hero -->
     <div id="work_banner" class="banner-wrapper bg-light w-100 py-5">
@@ -36,7 +41,11 @@
     <!-- End Banner Hero -->
     <!-- Start Our Work -->
     <section class="container py-5">
-      <div class="row projects gx-lg-5"> <a href="./cap/cap0.html" class="col-sm-6 col-lg-3 text-decoration-none project marketing social business">
+      <div class="row projects gx-lg-5"> <a href="./cap/intro.html" class="col-sm-6 col-lg-3 text-decoration-none project marketing social business">
+          <div class="service-work overflow-hidden card mb-5 mx-5 m-sm-0"> <img
+              class="card-img-top" src="./assets/img/cap/intro.jpg" alt="Introdução">
+          </div>
+        </a> <a href="./cap/cap0.html" class="col-sm-6 col-lg-3 text-decoration-none project marketing social business">
           <div class="service-work overflow-hidden card mb-5 mx-5 m-sm-0"> <img
               class="card-img-top" src="./assets/img/cap/cap0.jpg" alt="Capítulo 0">
           </div>
@@ -68,12 +77,33 @@
           <div class="service-work overflow-hidden card mx-5 mx-sm-0 mb-5"> <img
               class="card-img-top" src="./assets/img/cap/cap7.jpg" alt="Capítulo 7">
           </div>
-        </a> <a href="./cap/cap7.html" class="col-sm-6 col-lg-3 text-decoration-none project marketing graphic">
+        </a> <a href="./cap/cap8.html" class="col-sm-6 col-lg-3 text-decoration-none project marketing graphic">
           <div class="service-work overflow-hidden card mx-5 mx-sm-0 mb-5"> <img
               class="card-img-top" src="./assets/img/cap/cap8.jpg" alt="Capítulo 8">
-        </div> </a>
-      
-      </div>
+          </div>
+        
+        
+        </a> <a onclick="emBreve()" href="" class="col-sm-6 col-lg-3 text-decoration-none project marketing graphic">
+          <div class="service-work overflow-hidden card mx-5 mx-sm-0 mb-5"> <img
+              class="card-img-top" src="./assets/img/cap/cap9.jpg" alt="Capítulo 9">
+          </div>
+        </a> <a onclick="emBreve()" href="" class="col-sm-6 col-lg-3 text-decoration-none project marketing graphic">
+          <div class="service-work overflow-hidden card mx-5 mx-sm-0 mb-5"> <img
+              class="card-img-top" src="./assets/img/cap/cap10.jpg" alt="Capítulo 10">
+          </div>
+        </a> <a onclick="emBreve()" href="" class="col-sm-6 col-lg-3 text-decoration-none project marketing graphic">
+          <div class="service-work overflow-hidden card mx-5 mx-sm-0 mb-5"> <img
+              class="card-img-top" src="./assets/img/cap/cap11.jpg" alt="Capítulo 11">
+          </div>
+        </a> <a onclick="emBreve()" href="" class="col-sm-6 col-lg-3 text-decoration-none project marketing graphic">
+          <div class="service-work overflow-hidden card mx-5 mx-sm-0 mb-5"> <img
+              class="card-img-top" src="./assets/img/cap/cap12.jpg" alt="Capítulo 12">
+          </div>
+        </a>  <a onclick="emBreve()" href="" class="col-sm-6 col-lg-3 text-decoration-none project marketing graphic">
+          <div class="service-work overflow-hidden card mx-5 mx-sm-0 mb-5"> <img
+              class="card-img-top" src="./assets/img/cap/cap13.jpg" alt="Capítulo 13">
+          </div>
+        </a> </div>
       <div class="row">
         <div class="btn-toolbar justify-content-center pb-4" role="toolbar" aria-label="Toolbar with button groups">
         </div>
