@@ -103,7 +103,11 @@ function nav2(){
 	return link;
  }
  
+<<<<<<< HEAD
 function iniciar(){
+=======
+  function iniciar(){
+>>>>>>> 3cfba79096608fb1f89cdb047a51808e7bc7827a
  
 	var link = "cap0.html";
 	
@@ -111,8 +115,11 @@ function iniciar(){
  		
 	return link;
  }
+<<<<<<< HEAD
 	
 function emBreve(){
+=======
+>>>>>>> 3cfba79096608fb1f89cdb047a51808e7bc7827a
 
 	alert("EM BREVE!");
 
