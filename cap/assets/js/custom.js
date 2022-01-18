@@ -102,5 +102,14 @@ function nav2(){
  		
 	return link;
  }
+ 
+  function iniciar(){
+ 
+	var link = "cap0.html";
+	
+	window.open(link, "_self");
+ 		
+	return link;
+ }
 
 
