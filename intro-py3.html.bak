@@ -41,58 +41,49 @@ alert("EM BREVE!");
     <!-- End Banner Hero -->
     <!-- Start Our Work -->
     <section class="container py-5">
-<<<<<<< HEAD
       <div class="row projects gx-lg-5"> <a href="./cap/intro.html" class="col-sm-6 col-lg-3 text-decoration-none project marketing social business">
+      <div class="row projects gx-lg-5"> 
+        <a href="./cap/intro.html" class="col-sm-6 col-lg-3 text-decoration-none project marketing social business">
+
           <div class="service-work overflow-hidden card mb-5 mx-5 m-sm-0"> <img
               class="card-img-top" src="./assets/img/cap/intro.jpg" alt="Introdução">
           </div>
         </a> <a href="./cap/cap0.html" class="col-sm-6 col-lg-3 text-decoration-none project marketing social business">
-=======
-      
-      <div class="row projects gx-lg-5"> 
-        <a href="./cap/intro.html" class="col-sm-6 col-lg-3 text-decoration-none project marketing social business">
-          <div class="service-work overflow-hidden card mb-5 mx-5 m-sm-0"> <img
-              class="card-img-top" src="./assets/img/cap/intro.jpg" alt="Introdução">
-          </div></a>
-      	<a href="./cap/cap0.html" class="col-sm-6 col-lg-3 text-decoration-none project marketing social business">
->>>>>>> 3cfba79096608fb1f89cdb047a51808e7bc7827a
           <div class="service-work overflow-hidden card mb-5 mx-5 m-sm-0"> <img
               class="card-img-top" src="./assets/img/cap/cap0.jpg" alt="Capítulo 0">
-          </div></a>
-        <a href="./cap/cap1.html" class="col-sm-6 col-lg-3 text-decoration-none project graphic social">
+          </div>
+        </a> <a href="./cap/cap1.html" class="col-sm-6 col-lg-3 text-decoration-none project graphic social">
           <div class="service-work overflow-hidden card mx-5 mx-sm-0 mb-5"> <img
               class="card-img-top" src="./assets/img/cap/cap1.jpg" alt="Capítulo 1">
-          </div> </a>
-        <a href="./cap/cap2.html" class="col-sm-6 col-lg-3 text-decoration-none project marketing graphic business">
+          </div>
+        </a> <a href="./cap/cap2.html" class="col-sm-6 col-lg-3 text-decoration-none project marketing graphic business">
           <div class="service-work overflow-hidden card mx-5 mx-sm-0 mb-5"> <img
               class="card-img-top" src="./assets/img/cap/cap2.jpg" alt="Capítulo 2">
-          </div> </a> 
-        <a href="./cap/cap3.html" class="col-sm-6 col-lg-3 text-decoration-none project social business">
+          </div>
+        </a> <a href="./cap/cap3.html" class="col-sm-6 col-lg-3 text-decoration-none project social business">
           <div class="service-work overflow-hidden card mx-5 mx-sm-0 mb-5"> <img
               class="card-img-top" src="./assets/img/cap/cap3.jpg" alt="Capítulo 3">
-          </div> </a> 
-        <a href="./cap/cap4.html" class="col-sm-6 col-lg-3 text-decoration-none project marketing">
+          </div>
+        </a> <a href="./cap/cap4.html" class="col-sm-6 col-lg-3 text-decoration-none project marketing">
           <div class="service-work overflow-hidden card mx-5 mx-sm-0 mb-5"> <img
               class="card-img-top" src="./assets/img/cap/cap4.jpg" alt="Capítulo 4">
-          </div> </a> 
-        <a href="./cap/cap5.html" class="col-sm-6 col-lg-3 text-decoration-none project marketing graphic">
+          </div>
+        </a> <a href="./cap/cap5.html" class="col-sm-6 col-lg-3 text-decoration-none project marketing graphic">
           <div class="service-work overflow-hidden card mx-5 mx-sm-0 mb-5"> <img
               class="card-img-top" src="./assets/img/cap/cap5.jpg" alt="Capítulo 5">
-          </div></a>
-        <a href="./cap/cap6.html" class="col-sm-6 col-lg-3 text-decoration-none project marketing graphic">
+          </div>
+        </a> <a href="./cap/cap6.html" class="col-sm-6 col-lg-3 text-decoration-none project marketing graphic">
           <div class="service-work overflow-hidden card mx-5 mx-sm-0 mb-5"> <img
               class="card-img-top" src="./assets/img/cap/cap6.jpg" alt="Capítulo 6">
-          </div> </a>
-        <a href="./cap/cap7.html" class="col-sm-6 col-lg-3 text-decoration-none project marketing graphic">
+          </div>
+        </a> <a href="./cap/cap7.html" class="col-sm-6 col-lg-3 text-decoration-none project marketing graphic">
           <div class="service-work overflow-hidden card mx-5 mx-sm-0 mb-5"> <img
               class="card-img-top" src="./assets/img/cap/cap7.jpg" alt="Capítulo 7">
-<<<<<<< HEAD
           </div>
         </a> <a href="./cap/cap8.html" class="col-sm-6 col-lg-3 text-decoration-none project marketing graphic">
           <div class="service-work overflow-hidden card mx-5 mx-sm-0 mb-5"> <img
               class="card-img-top" src="./assets/img/cap/cap8.jpg" alt="Capítulo 8">
           </div>
-        
         
         </a> <a onclick="emBreve()" href="" class="col-sm-6 col-lg-3 text-decoration-none project marketing graphic">
           <div class="service-work overflow-hidden card mx-5 mx-sm-0 mb-5"> <img
@@ -115,15 +106,6 @@ alert("EM BREVE!");
               class="card-img-top" src="./assets/img/cap/cap13.jpg" alt="Capítulo 13">
           </div>
         </a> </div>
-=======
-          </div> </a>
-        <a href="./cap/cap8.html" class="col-sm-6 col-lg-3 text-decoration-none project marketing graphic">
-          <div class="service-work overflow-hidden card mx-5 mx-sm-0 mb-5"> <img
-              class="card-img-top" src="./assets/img/cap/cap8.jpg" alt="Capítulo 8">
-          </div> </a>
-      </div>
-      
->>>>>>> 3cfba79096608fb1f89cdb047a51808e7bc7827a
       <div class="row">
         <div class="btn-toolbar justify-content-center pb-4" role="toolbar" aria-label="Toolbar with button groups">
         </div>
