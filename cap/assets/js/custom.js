@@ -103,25 +103,21 @@ function nav2(){
 	return link;
  }
  
-<<<<<<< HEAD
-function iniciar(){
-=======
-  function iniciar(){
->>>>>>> 3cfba79096608fb1f89cdb047a51808e7bc7827a
+
+ function iniciar(){
  
 	var link = "cap0.html";
 	
 	window.open(link, "_self");
  		
 	return link;
+	
  }
-<<<<<<< HEAD
+
 	
 function emBreve(){
-=======
->>>>>>> 3cfba79096608fb1f89cdb047a51808e7bc7827a
 
 	alert("EM BREVE!");
 
- }
+}
 
