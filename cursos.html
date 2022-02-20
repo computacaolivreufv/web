@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>Cursos</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="apple-touch-icon" href="assets/img/apple-icon.png">
+    <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.ico">
+    <!-- Load Require CSS -->
+    <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Font CSS -->
+    <link href="assets/css/boxicon.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600&amp;display=swap"
+      rel="stylesheet">
+    <!-- Load Tempalte CSS -->
+    <link rel="stylesheet" href="assets/css/templatemo.css">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="assets/css/custom.css">
+    <!-- Custom -->
+    <script src="assets/js/custom.js"></script>
+    <!--
+    TemplateMo 561 Purple Buzzhttps://templatemo.com/tm-561-purple-buzz-->
+  </head>
+  <body>
+    <!-- Header -->
+    <script>  x = nav1(); document.write(x.toString()); 
+    					function emBreve()
+{
+alert("EM BREVE!");
+}
+    </script>
+    <!-- Close Header -->
+    <!-- Start Banner Hero -->
+    <div id="work_banner" class="banner-wrapper bg-light w-100 py-5">
+      <div class="banner-vertical-center-work container text-light d-flex justify-content-center align-items-center py-5 p-0">
+        <div class="banner-content col-lg-8 col-12 m-lg-auto text-center">
+          <h1 class="banner-heading h2 display-3 pb-5 semi-bold-600 typo-space-line-center">Cursos</h1>
+        </div>
+      </div>
+    </div>
+    <!-- End Banner Hero -->
+    <!-- Start Our Work -->
+    <section class="container py-5">
+      <div class="row projects gx-lg-5">    
+
+          <a href="./intro-py3.html" class="col-sm-6 col-lg-3 text-decoration-none project marketing social business">
+            <div class="service-work overflow-hidden card mb-5 mx-5 m-sm-0"> <img
+                class="card-img-top" src="./assets/img/cursos.jpg" alt="Introdução">
+            </div>
+          </a> 
+          <!-- 
+          <a href="./cap/cap0.html" class="col-sm-6 col-lg-3 text-decoration-none project marketing social business">
+            <div class="service-work overflow-hidden card mb-5 mx-5 m-sm-0"> <img
+                class="card-img-top" src="./assets/img/cap/cap0.jpg" alt="Capítulo 0">
+            </div>
+          </a>
+        -->
+        
+        <div class="row">
+          <div class="btn-toolbar justify-content-center pb-4" role="toolbar" aria-label="Toolbar with button groups">
+          </div>
+        </div>
+
+      </div>
+    </section>
+    <!-- End Our Work -->
+    <!-- Footer -->
+    <script>  x = foot2(); document.write(x.toString()); </script>
+    <!-- End Footer -->
+    <!-- Bootstrap -->
+    <script src="assets/js/bootstrap.bundle.min.js"></script>
+    <!-- Lightbox -->
+    <script src="assets/js/fslightbox.js"></script>
+    <script>
+        fsLightboxInstances['gallery'].props.loadOnlyCurrentSource = true;
+    </script>
+    <!-- Load jQuery require for isotope -->
+    <script src="assets/js/jquery.min.js"></script>
+    <!-- Isotope -->
+    <script src="assets/js/isotope.pkgd.js"></script>
+    <!-- Page Script -->
+    <script>
+        $(window).load(function() {
+            // init Isotope
+            var $projects = $('.projects').isotope({
+                itemSelector: '.project',
+                layoutMode: 'fitRows'
+            });
+            $(".filter-btn").click(function() {
+                var data_filter = $(this).attr("data-filter");
+                $projects.isotope({
+                    filter: data_filter
+                });
+                $(".filter-btn").removeClass("active");
+                $(".filter-btn").removeClass("shadow");
+                $(this).addClass("active");
+                $(this).addClass("shadow");
+                return false;
+            });
+        });
+    </script>
+    <!-- Templatemo -->
+    <script src="assets/js/templatemo.js"></script>
+  </body>
+</html>
